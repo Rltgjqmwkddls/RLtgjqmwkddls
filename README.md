@@ -1,6 +1,7 @@
 
-Hello I'm going to be a developer
-No one can stop me
+![배너 이미지](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=header)
+
+# Welcome to My GitHub Profile
 
 # 🛠️ Tools & Technologies
 

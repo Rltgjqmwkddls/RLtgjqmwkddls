@@ -1,7 +1,6 @@
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF69B4&width=435&lines=Welcome+to+My+GitHub+Profile)
 
-![배너 이미지](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=header)
 
-# Welcome to My GitHub Profile
 
 # 🛠️ Tools & Technologies
 

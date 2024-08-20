@@ -34,3 +34,6 @@
 ## Collaborative
 ![Slack](https://img.shields.io/badge/Slack-000000?style=flat-square&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=제+GitHub+프로필을+시청해주셔서+감사합니다!&center=true&width=700&height=80&font=Fira+Code&color=FF69B4&vCenter=true&size=24&pause=1000&delay=500&eraseDelay=0&eraseSpeed=50)
+![Custom Banner](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=header&text=Thanks+For+Watching+My+Profile&fontSize=50&fontColor=ffffff)

@@ -35,5 +35,5 @@ No one can stop me
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ## Collaborative
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-000000?style=flat-square&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)

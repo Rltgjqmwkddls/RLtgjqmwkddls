@@ -36,6 +36,9 @@
 ![Slack](https://img.shields.io/badge/Slack-000000?style=flat-square&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
+## Tistory
+https://vlogdkdlel0798.tistory.com/
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=제+GitHub+프로필을+시청해주셔서+감사합니다!&center=true&width=600&height=80&font=Fira+Code&color=FF69B4&vCenter=true&size=24&pause=1000&delay=600&eraseDelay=0&eraseSpeed=50)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=footer&text=Thanks+For+Watching+My+Profile&fontSize=50&fontColor=ffffff" alt="Custom Banner" style="width: 100%; height: auto;">

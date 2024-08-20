@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=50&fontColor=ffffff" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=150&section=header&text=Welcome%20to%20My%20GitHub%20Profile&fontSize=50&fontColor=ffffff" />
 
 Hello I'm going to be a developer
 No one can stop me

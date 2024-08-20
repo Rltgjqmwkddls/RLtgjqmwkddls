@@ -1,5 +1,5 @@
 ![Custom Banner](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=header&text=Welcome+to+My+Profile&fontSize=50&fontColor=ffffff)
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+Welcome+to+my+GitHub+Profile!;I+love+coding+and+collaboration.&center=true&width=500&height=50&font=Fira+Code&color=FF69B4&vCenter=true&size=22)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello,+Welcome+to+my+GitHub+Profile!;I+love+coding+and+collaboration.&center=true&width=500&height=50&font=Fira+Code&color=FF69B4&vCenter=true&size=22&pause=3000)
 
 
 # 🛠️ Tools & Technologies

@@ -36,6 +36,12 @@
 ![Slack](https://img.shields.io/badge/Slack-000000?style=flat-square&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
+## 📍[1차 프로젝트](https://github.com/Rltgjqmwkddls/SVL)
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/98604cb9-dca0-4e49-bb4c-0c04dc330c90">
+
+## 📍[2차 프로젝트](https://github.com/Rltgjqmwkddls/JBTI)
+<img width="100%" alt="image" src="https://github.com/user-attachments/assets/ffca34f4-c1a1-4323-8d23-fc8997b1eb6f">
+
 ## Blog
 [Tistory](https://vlogdkdlel0798.tistory.com/)
 

@@ -25,6 +25,9 @@
 ## Blog
 [Tistory](https://vlogdkdlel0798.tistory.com/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLtgjqmwkddls&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RLtgjqmwkddls&show_icons=true&theme=default)
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=제+GitHub+프로필을+시청해주셔서+감사합니다!&center=true&width=600&height=80&font=Fira+Code&color=FF69B4&vCenter=true&size=24&pause=1000&delay=600&eraseDelay=0&eraseSpeed=50)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=footer&text=Thanks+For+Watching+My+Profile&fontSize=50&fontColor=ffffff" alt="Custom Banner" style="width: 100%; height: auto;">

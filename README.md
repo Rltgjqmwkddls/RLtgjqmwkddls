@@ -1,6 +1,3 @@
-![JBTI](https://github.com/user-attachments/assets/9da74467-3fae-4f90-becb-281c007757fa)<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=header&text=Welcome+to+My+Profile&fontSize=50&fontColor=ffffff" alt="Custom Banner" style="width: 100%; height: auto;">
-
-
 ![Welcome Banner](https://your-image-url.com/banner.png)
 
 
@@ -18,7 +15,7 @@
 
 
 ## 📍[1차 프로젝트](https://github.com/Rltgjqmwkddls/SVL)
-<img width="100%" alt="image" src="https://github.com/user-attachments/assets/f94f0eee-29b3-415f-a618-3025894d2ae5">
+![JBTI](https://github.com/user-attachments/assets/9da74467-3fae-4f90-becb-281c007757fa)<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=header&text=Welcome+to+My+Profile&fontSize=50&fontColor=ffffff" alt="Custom Banner" style="width: 100%; height: auto;">
 
 ## 📍[2차 프로젝트](https://github.com/Rltgjqmwkddls/JBTI)
 <img width="100%" alt="image" src="https://github.com/user-attachments/assets/eeb57534-1267-41c0-b229-714dac37d4b3"

@@ -16,9 +16,7 @@
 
 ## 📍[1차 프로젝트](https://github.com/Rltgjqmwkddls/SVL)
 
-
 ## 📍[2차 프로젝트](https://github.com/Rltgjqmwkddls/JBTI)
-![JBTI](https://github.com/user-attachments/assets/9da74467-3fae-4f90-becb-281c007757fa)<img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=header&text=Welcome+to+My+Profile&fontSize=50&fontColor=ffffff" alt="Custom Banner" style="width: 100%; height: auto;">
 
 ## 📍[3차 프로젝트]()
 

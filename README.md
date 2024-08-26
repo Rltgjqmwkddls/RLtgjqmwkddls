@@ -6,14 +6,8 @@
 
 | Languages | Frameworks | Web | DataBase |
 | --- | --- | --- | --- |
-| <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="62" height="62" /></div> | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | 
-<p>
-  <img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-</p>
- | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="62" height="62" /> | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="62" height="62" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="62" height="62" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="62" height="62" /> | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+
 
 | IDE | DevOps | Collaborative |
 | --- | --- | --- |

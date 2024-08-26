@@ -21,7 +21,7 @@
 
 
 ## 📍[2차 프로젝트](https://github.com/Rltgjqmwkddls/JBTI)
-![JBTI](https://github.com/user-attachments/assets/54a06296-c2aa-4f5f-b62b-708ff4afb7fa)
+![image](https://github.com/user-attachments/assets/0cd901ca-7dc8-4149-a0a8-5617265ad80d)
 
 
 ## 📍[3차 프로젝트]()

@@ -17,6 +17,8 @@
 
 
 ## 📍[1차 프로젝트](https://github.com/Rltgjqmwkddls/SVL)
+![image](https://github.com/user-attachments/assets/6bf28a65-c439-4c66-8447-b618d0392d54)
+
 
 ## 📍[2차 프로젝트](https://github.com/Rltgjqmwkddls/JBTI)
 ![JBTI](https://github.com/user-attachments/assets/54a06296-c2aa-4f5f-b62b-708ff4afb7fa)

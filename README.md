@@ -3,7 +3,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=안녕하세요,+GitHub+프로필에+오신+것을+환영합니다!&center=true&width=700&height=80&font=Fira+Code&color=FF69B4&vCenter=true&size=24&pause=1000&delay=500&eraseDelay=0&eraseSpeed=50)
 
 # 🛠️ Tools & Technologies
-<div align="center">
 
 | Languages | Frameworks | Web | DataBase |
 | --- | --- | --- | --- |
@@ -11,9 +10,6 @@
 | IDE | DevOps | Collaborative |
 | --- | --- | --- |
 | ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=spyder-ide&logoColor=white) | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white) |
-
-</div>
-
 
 
 ## 📍[1차 프로젝트](https://github.com/Rltgjqmwkddls/SVL)

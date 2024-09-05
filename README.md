@@ -17,14 +17,15 @@
 
 
 ## 📍[1차 프로젝트](https://github.com/Rltgjqmwkddls/SVL)
-![image](https://github.com/user-attachments/assets/6bf28a65-c439-4c66-8447-b618d0392d54)
+![SVL](https://github.com/user-attachments/assets/6bf28a65-c439-4c66-8447-b618d0392d54)
 
 
 ## 📍[2차 프로젝트](https://github.com/Rltgjqmwkddls/JBTI)
-![image](https://github.com/user-attachments/assets/ada61e8c-09ce-4c82-9639-e661654acc5a)
+![JBTI](https://github.com/user-attachments/assets/ada61e8c-09ce-4c82-9639-e661654acc5a)
 
 
 ## 📍[3차 프로젝트]()
+![AutoAware](https://github.com/user-attachments/assets/5a885787-7625-4957-9d39-3c1625a286e4)
 
 
 ## Blog

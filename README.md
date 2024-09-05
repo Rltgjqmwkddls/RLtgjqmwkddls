@@ -17,11 +17,13 @@
 
 
 ## 📍[1차 프로젝트](https://github.com/Rltgjqmwkddls/SVL)
-![SVL](https://github.com/user-attachments/assets/6bf28a65-c439-4c66-8447-b618d0392d54)
+![SVL](https://github.com/user-attachments/assets/a55526b3-6ae8-4b35-bd68-2d857ae2f880)
+
 
 
 ## 📍[2차 프로젝트](https://github.com/Rltgjqmwkddls/JBTI)
-![JBTI](https://github.com/user-attachments/assets/ada61e8c-09ce-4c82-9639-e661654acc5a)
+![JBTI](https://github.com/user-attachments/assets/f1d90f53-fbbf-4688-866c-da6d55b32f5d)
+
 
 
 ## 📍[3차 프로젝트]()

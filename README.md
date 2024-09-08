@@ -12,24 +12,6 @@
 | ------- | ---------- | ----------------- |
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-ED8B00?style=flat-square&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white) ![Spyder](https://img.shields.io/badge/-Spyder-FF0000?style=flat-square&logo=spyder-ide&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white) ![yarn](https://img.shields.io/badge/-yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white) | ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white) ![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)
 
-
-
-
-
-## 📍[1차 프로젝트](https://github.com/Rltgjqmwkddls/SVL)
-![SVL](https://github.com/user-attachments/assets/a55526b3-6ae8-4b35-bd68-2d857ae2f880)
-
-
-
-## 📍[2차 프로젝트](https://github.com/Rltgjqmwkddls/JBTI)
-![JBTI](https://github.com/user-attachments/assets/f1d90f53-fbbf-4688-866c-da6d55b32f5d)
-
-
-
-## 📍[3차 프로젝트]()
-![AutoAware](https://github.com/user-attachments/assets/5a885787-7625-4957-9d39-3c1625a286e4)
-
-
 ## Blog
 [Tistory](https://vlogdkdlel0798.tistory.com/)
 

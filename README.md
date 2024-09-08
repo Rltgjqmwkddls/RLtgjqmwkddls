@@ -18,6 +18,9 @@
 ## Portfolio
 [Notion](https://www.notion.so/95146abfb3e74b4985de56df336a51b1)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RLtgjqmwkddls&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RLtgjqmwkddls&show_icons=true&theme=default)
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=제+GitHub+프로필을+둘러봐주셔서+감사합니다!&center=true&width=600&height=80&font=Fira+Code&color=FF69B4&vCenter=true&size=24&pause=1000&delay=600&eraseDelay=0&eraseSpeed=50)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=150&section=footer&text=Thanks+for+My+Profile&fontSize=50&fontColor=ffffff" alt="Custom Banner" style="width: 100%; height: auto;">
